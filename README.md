@@ -1,3 +1,13 @@
+# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+
+Autor: **Thiago Carrijo Rufino Rabelo**
+
+Curso: Residência Tecnológica em Sistemas Embarcados
+
+Instituição: EmbarcaTech - HBr
+
+Brasília, 7 de junho de 2025
+
 # Gravador e Reprodutor de Áudio para Raspberry Pi Pico W na BitDogLab
 
 Este projeto implementa um gravador e reprodutor de áudio utilizando o microcontrolador Raspberry Pi Pico W integrado em uma placa BitDogLab, juntamente com um microfone e um buzzer. O áudio é amostrado via ADC, armazenado em um buffer via DMA, filtrado com um filtro passa-baixa e reproduzido pelo buzzer.
